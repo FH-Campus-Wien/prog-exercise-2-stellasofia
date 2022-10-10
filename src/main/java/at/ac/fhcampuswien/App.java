@@ -73,6 +73,7 @@ public class App {
 
     //todo Task 4
     public void printRhombus() {
+        // T_T
         //character: char c = scan.next().charAt(0); //next - string, charAt (methode dieses Objekts), mit Index 0
         System.out.print("h: ");
         int h = scan.nextInt(); //height
